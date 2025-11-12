@@ -1,6 +1,6 @@
 # git_test
 
-## 지긍 git ghk 화면 test용
+## 지금 git 화면 test중
 
 - test1
 - test2
